@@ -1,7 +1,7 @@
 # Atividade Uninter
 
 Atividade da disciplina de Lógica de Programação na Uninter
-- Em todas as atividades não foi realizado o tratamento de erros para entradas indesejadas ao funcionamento dos programas
+- Em todas as atividades não foi requisitado o tratamento de erros para entradas em tipos indesejados ao funcionamento dos programas
 
 
 ## Requisitos pessoais
