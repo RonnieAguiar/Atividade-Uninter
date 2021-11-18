@@ -52,4 +52,3 @@ while True:
         else: listar(inscricoes)
     else:
         print("Escolha uma opção válida indicada pelo numero da função")
-

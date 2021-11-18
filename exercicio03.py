@@ -100,5 +100,3 @@ while True:
     else:
         msgVitoria()
         break
-
-
