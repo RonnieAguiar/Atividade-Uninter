@@ -1,6 +1,7 @@
 # Atividade Uninter
 
 Atividade da disciplina de Lógica de Programação na Uninter
+- Em todas as atividades não foi realizado o tratamento de erros para entradas indesejadas ao funcionamento dos programas
 
 
 ## Requisitos pessoais
@@ -15,7 +16,7 @@ Atividade da disciplina de Lógica de Programação na Uninter
 - Explicar seu código através de comentários;
 - Colocar uma IMAGEM com o terminal rodando e mostrando o que cada exercício pede.
 
-## 1 Exercício: Ensino por faixa etária
+## Exercício 1: Ensino por faixa etária
 
 A ampliação do Ensino Fundamental para nove anos de duração, tornou a matrícula da criança obrigatória a partir dos seis anos de idade. Implemente um programa que fornecidos
 o nome e a idade de um criança classifique-a em uma das etapas de ensino.
@@ -37,7 +38,7 @@ o nome e a idade de um criança classifique-a em uma das etapas de ensino.
 - Encerrar programa
 
 
-## 2 Exercício: Codificando nomes
+## Exercício 2: Codificando nomes
 
 O programa deve imprimir na tela o nome convertido
 
@@ -56,7 +57,7 @@ O programa deve imprimir na tela o nome convertido
 - Codifica o nome
 - Exibe nome convertido e o codificado
 
-## 3 Exercício:
+## Exercício 3: Hotel dos Animais
 
 Implementar um jogo que é popular entre as crianças: um hotel onde os hóspedes têm algumas restrições quanto a localização de seu quarto.
 O jogo é composto por 4 fases, onde cada fase (a partir da fase 2) só é desbloqueada se a anterior for concluída com êxito.
@@ -121,7 +122,7 @@ Na fase 4, o jogador deverá alocar: QUEIJO, QUEIJO, OSSO.
 [_ _ _ *]
 [* R * *]
 
-## 4 Exercício: Inscrições com voucher
+## Exercício 4: Inscrições com voucher
 
 Uma escola de cursos de TI oferece vouchers para que os participantes possam assistir algumas aulas gratuitas de Python. Para isso o participante que deseja assistir as aulas gratuitas desse curso específico, deve fazer uma inscrição para receber o voucher.
 Implemente um programa que armazene as inscrições para o curso.
